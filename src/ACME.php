@@ -13,7 +13,7 @@ class ACME
      */
     public static function create(string $provider, array $config = []): ClientInterface
     {
-        $className = "\\acme\\".strtolower($provider)."\\".ucfirst($provider);
+        $className = "\\acme\\" . strtolower($provider) . "\\" . ucfirst($provider);
 
         if (!class_exists($className)) {
             throw new RuntimeException("Class '$className' not found");
