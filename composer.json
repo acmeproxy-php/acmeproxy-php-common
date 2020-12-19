@@ -1,5 +1,5 @@
 {
-    "name": "acmeproxy-php/common",
+    "name": "acmeproxy-php/acmeproxy-php-common",
     "type": "library",
     "minimum-stability": "stable",
     "autoload": {
