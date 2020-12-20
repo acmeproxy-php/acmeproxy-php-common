@@ -17,4 +17,4 @@ composer require acmeproxy-php/acmeproxy-php-common
 
 ## Server
 
-If you want a complete server based on Laravel Lumen look at [acmeproxy-php/acmeproxy-php]https://github.com/acmeproxy-php/acmeproxy-php
+If you want a complete server based on Laravel Lumen look at [acmeproxy-php/acmeproxy-php](https://github.com/acmeproxy-php/acmeproxy-php)
